@@ -6,4 +6,4 @@ Hacker News
 * Read through the code, and compare it to what you see on the page. What is each thing doing?
 * What do you think of the embedded CSS? Is this good practice?
 * Check out the CSS file. Does it follow DRY (don't repeat yourself) priniciples?
-* Pick something in the site that you found interesting. Be prepared to talk about it tomorrow morning.
+* Pick something in the site that you found interesting. Blog about it.

@@ -1,6 +1,16 @@
 Prework
 =======
 
+Make a [GitHub](https://github.com/) account.
+
+#### Git and Unix
+
+[Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+
+[Try git](try.github.io)
+
+[Git Immersion](http://gitimmersion.com/)
+
 #### Front End
 
 Do Code Academy's [HTML/CSS course](http://www.codecademy.com/en/tracks/web).
