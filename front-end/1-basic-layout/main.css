@@ -1,23 +1,23 @@
-header{
+header {
 	background-color: gray;
 	height: 5em;
 	width: 100%;
 }
 
-nav{
+nav {
 	height: 2em;
 	background-color: red;
 	width: 100%;
 }
 
-.content{
+.content {
 	height: 20em;
 	width: 80%;
 	background-color: blue;
 	margin: 0 auto;
 }
 
-.col{
+.col {
 	width: 24%;
 	height: 100%;
 	float: left;
@@ -25,12 +25,12 @@ nav{
 	margin-right: .9%;
 }
 
-.col:nth-child(4){
+.col:nth-child(4) {
 	border-right: none;
 	margin-right: none;
 }
 
-footer{
+footer {
 	position: absolute;
 	bottom: 0;
 	height: 3em;

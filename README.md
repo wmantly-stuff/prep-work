@@ -1,11 +1,12 @@
 Prework
 =======
 
-[Wikipedia on pair programming](http://en.wikipedia.org/wiki/Pair_programming)
-
 #### Front End
 
-[Guide to wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)  
+Do Code Academy's [HTML/CSS course](http://www.codecademy.com/en/tracks/web).
+
+[Guide to wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
+
 [A compilation of wireframing articles](http://www.gracesmith.co.uk/get-wireframing-the-all-in-one-guide/)  
 
 #### JavaScript
@@ -30,4 +31,9 @@ Prework
 
 [Python Cheatsheet](http://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
+
+#### Miscellaneous
+
 [Rubular (for regex)](http://www.rubular.com)
+
+[Wikipedia on pair programming](http://en.wikipedia.org/wiki/Pair_programming)
