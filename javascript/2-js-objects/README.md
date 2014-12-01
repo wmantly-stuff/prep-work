@@ -1,4 +1,5 @@
-###Javascript Objects In Depth
+Javascript Objects In Depth
+===========================
 
 Model these people as objects:
 

@@ -1,4 +1,5 @@
-###Javascript Variables, Lists and Objects
+Javascript Variables, Lists, and Objects
+========================================
 
 Create a variable named byte and set it equal to "school".
 
