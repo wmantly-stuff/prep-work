@@ -1,5 +1,5 @@
 Basic Layout
-=============
+============
 
 Using HTML and CSS, you are going to construct a skeleton for basic webpage.
 

@@ -1,4 +1,7 @@
-###Upgraded Layout
+Upgraded Layout
+===============
+
+If you're not familiar with Chrome Dev Tools, [check out this tutorial](https://www.codeschool.com/courses/discover-devtools)
 
 Move your files from the basic layout folder to this folder - use git to check the status, add and commit. Answer question 1 in questions.md
 
