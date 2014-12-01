@@ -3,7 +3,7 @@ Left Hand Navigation
 
 Using this screenshot as a guide, create a left hand navigation template.
 
-![Left hand nav](http://i.imgur.com/fWlliQi.png)
+![Left hand nav](lefthand.png)
 
 You will need at least the following block elements:
 
