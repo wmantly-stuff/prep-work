@@ -1,4 +1,5 @@
-####JQuery Basics
+JQuery Basics
+=============
 
 JQuery is a powerful front-end javascript library that is used on virtually 100% of modern websites. The JQuery codebase is extremely [well documented with explanations and examples](http://api.jquery.com/) Don't be afraid to dig in.
 
