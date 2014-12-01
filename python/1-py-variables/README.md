@@ -17,5 +17,5 @@ byteAcademy - School
 instructors - Armen, Chris, Greg  
 students - Adolfo, Benny, Billy, Brendan
 ```
-Look into iterating over dictionaries in Python.  
+ 
 Check out [.format](https://infohost.nmt.edu/tcc/help/pubs/python/web/new-str-format.html)

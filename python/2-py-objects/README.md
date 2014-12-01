@@ -1,6 +1,7 @@
-###Javascript Objects In Depth
+Python Dictionaries In Depth
+=======================
 
-Model these people as objects:
+Model these people as dictionaries:
 
 Name: Michaela  
 Gender: Female  
@@ -17,4 +18,4 @@ Nickname: The Cow
 Friends: Stephen, Stephanie, Stefan  
 Jobs: Graphic Designer at Acme Corp, Bartender at Banter  
 
-Write them to the "printout" div similarly to how they are listed above.
+Print out the keys and values of each person object. Look into iterating over dictionaries in Python
