@@ -7,7 +7,7 @@ But until then, we will do it in front-end Javascript.
 
 You will find the toDoList prototype and constructor at the top of the main.js file.
 
-###Create the List
+#### Create the List
 
 The add method adds a todo to the list, using the text input and form.  
 
@@ -17,8 +17,8 @@ Use toggle to toggle it done struck and unstruck.
 
 Feel free to add any other methods, lists or objects you may want. You will want a separate function to print the list to the #printout div.
 
-###Woah! Client's demands have changed
+#### Woah! Client's demands have changed
 
 Now the client who was going to buy your sweet todo list wants a new feature. Is it going to break your whole code, or is your code modular and extendable?
 
-They want it so after a user completes a task, it is displayed struck for 10 seconds, but then disappears from your list. Google the setTimeout method. 
+They want it so after a user completes a task, it is displayed struck for 10 seconds, but then disappears from your list. Google the setTimeout method.
