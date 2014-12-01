@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script type="text/javascript" src="application.js"></script>
+</head>
+<body>
+	<div id="container">
+		<form id="create-account" action="#" method="post">
+			<h2>Make An Account</h2>
+			<input type="text" name="accountName" placeholder="Enter your account name (camelCase plz (: )"><br><br>
+			<input type="text" name="accountBalance" placeholder="Enter your starting balance"><br><br>
+			<input type="submit" class="button" value="Submit">
+		</form>
+		<div id="bank">
+			<h2>Bank Accounts</h2>
+			<ul id="account-list"></ul>
+		</div>
+	</div>
+
+	<div id="account-modal">
+		<div id="account-name"></div>
+		<div id="account-balance"></div>
+
+		<form id="deposit">
+			<input type="text" name="deposit-amount" placeholder="Deposit amount">
+			<input type="submit" class="button" value="Deposit into account">
+		</form>
+		<br>
+		<form id="withdrawal">
+			<input type="text" name="withdrawal-amount" placeholder="Withdrawal amount">
+			<input type="submit" class="button" value="Withdraw from account">
+		</form>
+		<br>
+		<button id="cancel-modal">I'm done</button>
+	</div>
+</body>
+</html>
