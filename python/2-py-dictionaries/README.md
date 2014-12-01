@@ -1,5 +1,5 @@
 Python Dictionaries In Depth
-=======================
+============================
 
 Model these people as dictionaries:
 
