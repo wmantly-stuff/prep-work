@@ -1,1 +1,2 @@
 def triangle(num):
+    pass

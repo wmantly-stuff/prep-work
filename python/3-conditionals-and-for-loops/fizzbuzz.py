@@ -1,5 +1,5 @@
 def fizzbizz(num):
-
+    pass
 
 
 def assertion(actual, expected):
