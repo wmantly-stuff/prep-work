@@ -63,12 +63,9 @@ Ok, now onto FizzBuzz.
 
 Open the main.js file and find the loop inside the document ready.
 
-Write code that does the following:
-
-* if i is divisable by 3, append a line that reads "Fizz"
-
-* if i is divisable by 5, append a line that reads "Buzz"
-
-* if i is divisable by 3 & 5, append a line that reads "FizzBuzz"
+Write code that does the following:  
+* if i is divisible by 3, append a line that reads "Fizz"
+* if i is divisible by 5, append a line that reads "Buzz"
+* if i is divisible by 3 & 5, append a line that reads "FizzBuzz"
 
 All this should be done as usual, to the printout div.
