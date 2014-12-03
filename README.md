@@ -31,8 +31,8 @@ Here are some resources to help you on assignments, as well has good reads.
 
 #### Front End
 
-[Guide to wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)  
-[A compilation of wireframing articles](http://www.gracesmith.co.uk/get-wireframing-the-all-in-one-guide/)  
+* [Guide to wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)  
+* [A compilation of wireframing articles](http://www.gracesmith.co.uk/get-wireframing-the-all-in-one-guide/)  
 
 #### JavaScript
 
