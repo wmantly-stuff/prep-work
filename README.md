@@ -23,6 +23,10 @@ Do these tutorials:
 * [Git Immersion](http://gitimmersion.com/)
 * [Code Academy HTML/CSS](http://www.codecademy.com/en/tracks/web).
 
+The tutorials below are not needed to do the rest of the pre-work, but will be necessary for your time at Byte Academy:  
+* [SQL Course](http://www.sqlcourse.com/)
+* [SQL Course 2](http://www.sqlcourse2.com/)
+
 ## Step 3
 
 Work through the practice problems provided. We recommend starting with front end, moving to JS, and finishing with Python.
@@ -57,3 +61,11 @@ Here are some resources to help you on assignments, as well has good reads.
 #### Good Videos
 
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
+
+#### Good Books
+
+* [Pragmatic Thinking and Learning](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
+* [Make It Stick](http://www.amazon.com/Make-It-Stick-Successful-Learning/dp/0674729013)
+* [How to Solve it](http://www.amazon.com/gp/product/4871878309/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687442&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=069111966X&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0R8YW9P9CKC2SGH3JK89)
+* [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+* [Code Complete](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?s=books&ie=UTF8&qid=1417644559&sr=1-1&keywords=code+complete)
