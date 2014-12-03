@@ -56,4 +56,4 @@ Here are some resources to help you on assignments, as well has good reads.
 
 #### Good Videos
 
-[Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
