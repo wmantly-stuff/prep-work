@@ -9,7 +9,7 @@ A lot of it is horizontal to other skills. So, if you are stuck on something, fe
 
 ## Step 1
 
-Make a [GitHub](https://github.com/) account.
+Congratulations on making a GitHub account.
 
 Pick a text editor to use. We recommend [Sublime](http://www.sublimetext.com/) or [Atom](https://atom.io/).
 
