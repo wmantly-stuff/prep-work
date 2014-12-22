@@ -1,13 +1,9 @@
 Welcome to Byte Academy
 =======================
 
-We've put together this program to get you all on the same footing before entering. You will be learning some basic git, Unix, JavaScript, and Python.  
+We've put together this program to get you all on the same footing before entering. You will be learning some basic git, Unix, JavaScript, and Python. Our goal is for you hit the ground running when you come to campus.
 
-Our goal is for you hit the ground running when you come to campus.
-
-The resources will build upon each other to whatever extent they can.  
-
-A lot of it is horizontal to other skills. So, if you are stuck on something, feel free to move on and come back to it later.
+The resources will build upon each other to whatever extent they can. A lot of it is horizontal to other skills. So if you are stuck on something, feel free to move on and come back to it later.
 
 ## Step 1
 
@@ -31,9 +27,9 @@ The tutorials below are not needed to do the rest of the pre-work, but will be n
 
 ## Step 3
 
-Work through the practice problems provided. We recommend starting with front end, moving to JS, and finishing with Python.
+Work through the practice problems provided in this repository. We recommend starting with [front end](https://github.com/ByteAcademyCo/Prework/tree/master/front-end), moving to [JavaScript](https://github.com/ByteAcademyCo/Prework/tree/master/javascript), and finishing with [Python](https://github.com/ByteAcademyCo/Prework/tree/master/python).
 
-Here are some resources to help you on assignments, as well has good reads.
+Here are some resources to help you on assignments, as well as good reads.
 
 #### Front End
 
