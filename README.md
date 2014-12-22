@@ -2,9 +2,11 @@ Welcome to Byte Academy
 =======================
 
 We've put together this program to get you all on the same footing before entering. You will be learning some basic git, Unix, JavaScript, and Python.  
+
 Our goal is for you hit the ground running when you come to campus.
 
 The resources will build upon each other to whatever extent they can.  
+
 A lot of it is horizontal to other skills. So, if you are stuck on something, feel free to move on and come back to it later.
 
 ## Step 1
@@ -19,7 +21,7 @@ Make sure [Python 3.4.2](https://wiki.python.org/moin/BeginnersGuide/Download) a
 
 Do these tutorials:  
 * [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-* [Try git](try.github.io)
+* [Try git](http://try.github.io)
 * [Git Immersion](http://gitimmersion.com/)
 * [Code Academy HTML/CSS](http://www.codecademy.com/en/tracks/web).
 
