@@ -59,6 +59,7 @@ Here are some resources to help you on assignments, as well as good reads.
 #### Good Videos
 
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 #### Good Books
 
