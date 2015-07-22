@@ -1,0 +1,41 @@
+header {
+	background-color: gray;
+	height: 5em;
+	width: 100%;
+}
+
+nav {
+	height: 2em;
+	background-color: red;
+	width: 100%;
+}
+
+.content {
+	height: 20em;
+	width: 80%;
+	background-color: blue;
+	margin: 0 auto;
+}
+
+.col {
+	width: 24%;
+	height: 100%;
+	float: left;
+	border-right: 1px solid black;
+	margin-right: .9%;
+}
+
+.col:nth-child(4) {
+	border-right: none;
+	margin-right: none;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	height: 3em;
+	background-color: black;
+	width: 80%;
+	left: 10%;
+
+}
