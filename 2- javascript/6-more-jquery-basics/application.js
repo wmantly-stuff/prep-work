@@ -1,5 +1,3 @@
-(function($, window, document) {
-  $(function(){
-    //your code here
-  });
-}(window.jQuery, window, document));
+$(document).ready(function(){
+  //your code here
+});
