@@ -1,7 +1,7 @@
 Python Dictionaries In Depth
 ============================
 
-Model these people as dictionaries:
+Model these people as [dictionaries](https://docs.python.org/3/library/stdtypes.html#dict):
 
 Name: Michaela  
 Gender: Female  
