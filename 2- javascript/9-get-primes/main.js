@@ -8,4 +8,4 @@ function getPrimes(num){
 $(document).ready(function(){
 
 
-})
+});
