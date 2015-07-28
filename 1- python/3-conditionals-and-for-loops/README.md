@@ -8,31 +8,31 @@ Get ready for FizzBuzz, again!
 For loop syntax in Python is slightly different.  
 The 'for in' pattern is still available in Python:  
 ```
->>> for thing in list:
-... 	print(thing)
+for thing in list:
+	print(thing)
 ```
 Python also has what's known as a range:
 ```
->>> lst = ['a', 'b', 'c']
->>> for i in range(len(lst)):
-... 	print(i)
+lst = ['a', 'b', 'c']
+for i in range(len(lst)):
+ 	print(i)
 0
 1
 2
 ```
 If we wanted to print the element in the list, rather than the index, we could do it like this:  
 ```
->>> lst = ['a', 'b', 'c']
->>> for i in range(len(lst)):
-... 	print(lst[i])
+lst = ['a', 'b', 'c']
+for i in range(len(lst)):
+ 	print(lst[i])
 a
 b
 c
 ```
 With range, you have the option to choose the start and stop points, as well as increment.  
 ```
->>> for i in range(2, 10, 2):
-... 	print(i)
+for i in range(2, 10, 2):
+ 	print(i)
 2
 4
 6
