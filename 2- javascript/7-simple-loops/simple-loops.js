@@ -15,7 +15,7 @@ function getDogs(array){
 // do not edit the assert statements
 
 function assert(testnum, bool){
-	console.log('Test ' + testnum + ": " + bool)
+	console.log('Test ' + testnum + ": " + bool);
 }
 
 assert(1,  challengeArray === ['New York', 'Burger', 'Philly', 'Burger', 'Jersey', 'Burger', 'Cali', 'Burger']);
