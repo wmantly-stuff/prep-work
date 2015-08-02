@@ -53,7 +53,7 @@ Here are some resources to help you on assignments, as well as good reads.
 
 ## Miscellaneous
 
-* [Rubular (for regex)](http://www.rubular.com)
+* [pythex (for regex)](http://pythex.org/)
 * [Wikipedia on pair programming](http://en.wikipedia.org/wiki/Pair_programming)
 
 #### Good Videos
