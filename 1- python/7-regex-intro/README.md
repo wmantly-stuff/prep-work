@@ -3,7 +3,7 @@ Regular Expressions
 
 Regular Expressions (regex for short) are a way to represent patterns in strings. They aren't as bad as people make them out to be. When used on the right problem, they are a great solution.
 
-Go to [Rubular](http://rubular.com/). We're going to sandbox inside it a bit to get acquainted with regex syntax. At the bottom of the page is a regex cheat sheet.  
+Go to [pythex](http://pythex.org/). We're going to sandbox inside it a bit to get acquainted with regex syntax. At the bottom of the page is a regex cheat sheet.  
 Note: Depending on the language, you may have to escape certain characters. For example, instead of `a{3}`, you may have to type `a\{3\}`.  
 Also, be careful with periods (`.`). A period means any character in regex, so you have to escape it if you want to pattern match a period.
 
