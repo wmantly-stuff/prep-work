@@ -51,7 +51,7 @@ Here are some resources to help you on assignments, as well as good reads.
 
 * [Python Cheatsheet](http://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
-#### Miscellaneous
+## Miscellaneous
 
 * [Rubular (for regex)](http://www.rubular.com)
 * [Wikipedia on pair programming](http://en.wikipedia.org/wiki/Pair_programming)
